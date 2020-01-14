@@ -1,3 +1,8 @@
-print('hello')
-print('world')
-print()
+>>> t = [3,1,2]
+>>> t2 = t[:]
+>>> t2.sort()
+>>> t
+[3,1,2]
+>>>t2
+[1,2,3]
+
